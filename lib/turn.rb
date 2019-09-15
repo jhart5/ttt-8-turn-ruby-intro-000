@@ -33,4 +33,3 @@ end
 def turn
   puts "please enter 1-9:"
 end
-
