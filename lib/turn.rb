@@ -26,6 +26,6 @@ def valid_move?(board, index)
   end
 end
 
-def move(board, move, input = "X")
+def move(board, index, input = "X")
   board[index] = input
 end
